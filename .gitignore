@@ -5,7 +5,7 @@ CMakeFiles/*
 Makefile
 SmartPointers.cbp
 Testing/*
-bin/*
+bin/smart_ptrs
 cmake_install.cmake
 
 

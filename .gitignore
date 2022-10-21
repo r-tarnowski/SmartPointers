@@ -1,0 +1,12 @@
+.cmake/*
+.idea/*
+CMakeCache.txt
+CMakeFiles/*
+Makefile
+SmartPointers.cbp
+Testing/*
+bin/*
+cmake_install.cmake
+
+
+
